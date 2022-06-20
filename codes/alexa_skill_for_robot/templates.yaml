@@ -1,0 +1,6 @@
+welcome: Welcome to the Gesture Controlled & Voice designated Mechatronic Hand using Electromyograph Sensor. tell me what to do?
+closed: the hand has been Closed. now what do you want me to do?
+opened: the hand has been Opened. now what do you want me to do?
+gesture_start_msg: gesture recognition has been started.
+gesture_stop_msg: gesture recognition has been stopped.
+goodbye: Thank You for using Gesture Controlled & Voice designated Mechatronic Hand using Electromyograph Sensor. Goodye!

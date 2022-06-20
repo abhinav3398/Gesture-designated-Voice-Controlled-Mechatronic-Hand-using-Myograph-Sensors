@@ -1,0 +1,74 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "robot",
+            "intents": [
+                {
+                    "name": "CloseIntent",
+                    "slots": [],
+                    "samples": [
+                        "sure",
+                        "yes",
+                        "grab",
+                        "close",
+                        "grab the hand",
+                        "close the hand"
+                    ]
+                },
+                {
+                    "name": "OpenIntent",
+                    "slots": [],
+                    "samples": [
+                        "nope",
+                        "no",
+                        "release",
+                        "open",
+                        "release the hand",
+                        "open the hand"
+                    ]
+                },
+                {
+                    "name": "GestureStopIntent",
+                    "slots": [],
+                    "samples": [
+                        "stop gesture",
+                        "stop gesture recognition",
+                        "no gesture",
+                        "gesture off",
+                        "off",
+                        "stop"
+                    ]
+                },
+                {
+                    "name": "GestureStartIntent",
+                    "slots": [],
+                    "samples": [
+                        "start gesture",
+                        "start gesture recognition",
+                        "gesture start",
+                        "gesture",
+                        "on",
+                        "gesture on",
+                        "start",
+                        "give control",
+                        "let mecontrol the  hand",
+                        "give me control"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                }
+            ],
+            "types": []
+        }
+    }
+}
