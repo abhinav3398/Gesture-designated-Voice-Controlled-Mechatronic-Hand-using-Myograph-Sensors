@@ -1,1 +1,5 @@
-todo: project intro & description
+# Gesture designated & Voice Controlled Mechatronic Hand using Myograph Sensors
+
+Worked in a 4 person team to develop an Amazon Alexa controlled desktop based application using python in Raspbian(Raspberry pi). The application provides an interface to start/initialize the physical robot controlled by raspberry pi. I was responsible for designing the core architecture of the application using python and amazon alexa, as well as performing gesture recognition & 3D - depth imageprocessing using Xbox 360 Kinect in Matlab via machine learning. Myself and my team-mates have successfully designed a Robotic Hand which can be self-taught by any human using hand gestures, in return we can operate the taught-task via internet through Amazon Alexa Voice commands. It uses many cutting-edge technologies like EMG sensors, tactile sensors, Audio control using Amazon Alexa, Microsoft Kinnect and a few more.
+
+With this project, we were qualified for the finals of eyic-2019 host by IITB, Bombay under the e-yantra initiative. We were in the top 20 teams from a total of 122 teams in initial phase.
